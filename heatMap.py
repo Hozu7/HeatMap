@@ -33,3 +33,5 @@ for week in range(len(pattern[0])):
 
 # Push the changes
 subprocess.run(['git', 'push', 'origin', 'main'])
+
+# Test
